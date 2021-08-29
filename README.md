@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ## I'm a Full Stack Engineer!!
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love Gaming.
 
 
-💼 any work related queries? do reach, [email](mailto:alaguselvan97@gmail.com)
+💼 any work related queries? do reach, [email]
 
 ### Connect with me
 
@@ -40,3 +40,4 @@
 [linkedin]: https://www.linkedin.com/in/alagu-selvan/
 [steam]: https://steamcommunity.com/id/SelvanFrenzy/
 [reddit]: https://www.reddit.com/user/SelvanFrenzy14/
+[email]: mailto:alaguselvan97@gmail.com
