@@ -4,8 +4,8 @@
 ## I'm a Full Stack Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn Algorithms, Data Structures, Java, Spring Boot.
-- ⚡ Fun fact: I love to play video games & shooters
+- 🥅 2021 Goals: Learn Algorithms, Data Structures, System Design.
+- ⚡ Fun fact: I love to play video games.
 
 ### Connect with me:
 
