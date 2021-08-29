@@ -4,7 +4,7 @@
 ## I'm a Full Stack Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn Next.Js & GraphQl, DS, Algos & System Design.
+- 🥅 2021 Goals: Learn Next.Js, DS, Algo & System Design.
 - ⚡ Fun fact: I love Gaming.
 
 
@@ -26,6 +26,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=339933)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=339933)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=339933)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=339933)&nbsp;
@@ -33,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=4479A1)&nbsp;
 
 [![alaguselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaguselvan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
