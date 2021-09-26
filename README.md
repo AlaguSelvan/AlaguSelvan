@@ -3,7 +3,7 @@
 
 ## I'm a Full Stack Engineer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything DS, Algo & System Design.
 - 🥅 2021 Goals: Learn Next.Js, DS, Algo & System Design.
 - ⚡ Fun fact: I love Gaming.
 
