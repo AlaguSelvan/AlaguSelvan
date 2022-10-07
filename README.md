@@ -4,7 +4,7 @@
 ## I'm a Full Stack Engineer!!
 
 - 🌱 I’m currently learning everything DS, Algo & System Design.
-- 🥅 2022 Goals: Learn DS, Algo & System Design.
+- 🥅 2022 Goals: Learn DS, Algo & System Design &Java.
 - ⚡ Fun fact: I love Gaming.
 
 
