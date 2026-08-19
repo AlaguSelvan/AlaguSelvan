@@ -2,19 +2,19 @@
 
 Full-Stack Engineer specializing in React, TypeScript, and Node.js — currently building large-scale storefronts and internal tooling.
 
-- 💼 Assistant Manager (Frontend Engineering) @ Redington — driving Next.js/React upgrades, MedusaJS v2 commerce, and CSP/security hardening
-- 🏢 Previously Software Engineer @ Alation — client-side caching, Apollo GraphQL migration, and testing infra (95% coverage)
-- 🎯 Focused on performance, SSR architecture, and clean scalable frontend systems
-- 📚 Currently sharpening data structures, algorithms & system design
-- 🎮 Fun fact: I love gaming
-
+💼 Assistant Manager (Full-Stack Engineering) @ Redington — driving Next.js/React upgrades, MedusaJS v2 commerce, and CSP/security hardening on the frontend, and backend queue jobs + AWS Lambda functions on the backend
+🏢 Previously Software Engineer @ Alation — client-side caching, Apollo GraphQL migration, server-side caching with Node.js/Redis, and testing infra (95% coverage)
+🎯 Focused on performance, SSR architecture, distributed backend systems, and clean scalable code end-to-end
+📚 Currently sharpening data structures, algorithms & system design
+🎮 Fun fact: I love gaming
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/alagu-selvan) · [Email](mailto:alaguselvan97@gmail.com)
 
 ### 🛠 Tech Stack
 `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express.js` `Redux` `GraphQL` `Redis` `MySQL` `Git` `GitHub`
 
-![alaguselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaguselvan&show_icons=true&theme=default)
+![alaguselvan's GitHub stats](https://github-stats-extended.vercel.app/api?username=alaguselvan)](https://github.com/stats-organization/github-stats-extended)
+
 
 <br />
 
