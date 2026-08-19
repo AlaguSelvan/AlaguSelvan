@@ -13,7 +13,7 @@ Full-Stack Engineer specializing in React, TypeScript, and Node.js — currently
 ### 🛠 Tech Stack
 `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express.js` `Redux` `GraphQL` `Redis` `MySQL` `Git` `GitHub`
 
-![alaguselvan's GitHub stats](https://github-stats-extended.vercel.app/api?username=alaguselvan)]
+![alaguselvan's GitHub stats](https://github-stats-extended.vercel.app/api?username=alaguselvan)
 
 
 <br />
