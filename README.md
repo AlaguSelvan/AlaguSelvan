@@ -1,20 +1,20 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, I'm Alagu 👋
 
+Full-Stack Engineer specializing in React, TypeScript, and Node.js — currently building large-scale storefronts and internal tooling.
 
-## I'm a Full Stack Engineer!!
+- 💼 Assistant Manager (Frontend Engineering) @ Redington — driving Next.js/React upgrades, MedusaJS v2 commerce, and CSP/security hardening
+- 🏢 Previously Software Engineer @ Alation — client-side caching, Apollo GraphQL migration, and testing infra (95% coverage)
+- 🎯 Focused on performance, SSR architecture, and clean scalable frontend systems
+- 📚 Currently sharpening data structures, algorithms & system design
+- 🎮 Fun fact: I love gaming
 
-- 🌱 I’m currently learning everything DS, Algo & System Design.
-- 🥅 2023 Goals: Learn DS, Algo & System Design &Java.
-- ⚡ Fun fact: I love Gaming.
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/alagu-selvan) · [Email](mailto:alaguselvan97@gmail.com)
 
+### 🛠 Tech Stack
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express.js` `Redux` `GraphQL` `Redis` `MySQL` `Git` `GitHub`
 
-💼 any work related queries? do reach, [email]
-
-### Connect with me
-
-[<img align="left" alt="AlaguSelvan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AlaguSelvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AlaguSelvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][steam]
+![alaguselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaguselvan&show_icons=true&theme=default)
 
 <br />
 
@@ -36,10 +36,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=4479A1)&nbsp;
 
-[![alaguselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaguselvan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[twitter]: https://twitter.com/alaguselvan97/
 [linkedin]: https://www.linkedin.com/in/alagu-selvan/
-[steam]: https://steamcommunity.com/id/SelvanFrenzy/
-[reddit]: https://www.reddit.com/user/SelvanFrenzy14/
 [email]: mailto:alaguselvan97@gmail.com
